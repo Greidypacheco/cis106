@@ -1,5 +1,5 @@
 ---
-Greidy Pacheco
+Name: Greidy Pacheco
 Course: cis106
 Semester: Spring 2023
 ---
