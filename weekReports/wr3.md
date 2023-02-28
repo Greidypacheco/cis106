@@ -87,15 +87,19 @@ A terminal emulator is a program that allows you to access the command line inte
 
 ### Managing Software
 **Which command is used for updating ubuntu**
+
 ``` sudo apt update; sudo apt upgrade -y```
 
 **Which command is used for installing software. Provide an example.**
+
 ```sudo apt install spotify```
 
 **Which command is used for removing software. Provide an example**
+
 ```sudo apt remove spotify```
 
 **Which command is used for searching for software. Provide an example.**
+
 ```apt search "google chrome"```
 
 **Definition of the following terms:**
