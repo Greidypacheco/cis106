@@ -66,9 +66,6 @@ GNOME 3 is the defaulted Ubuntu DE.
 **What are the official flavors of Ubuntu?**
 Canonical offers an official flavor of Ubuntu with the xfce DE called Xunbuntu. 
 
-
-
-
 ### What is a Shell?
 **What is Bash?**
 Bash shell is a program that provides interactive access to the LInux system. It runs as a regular program and is normally started whenever a user logs in into a terminal. 
@@ -90,17 +87,20 @@ A terminal emulator is a program that allows you to access the command line inte
 
 ### Managing Software
 **Which command is used for updating ubuntu**
- sudo apt update; sudo apt upgrade -y
+``` sudo apt update; sudo apt upgrade -y```
 
 **Which command is used for installing software. Provide an example.**
-install. Ex. Sudo apt install Spotify
+```sudo apt install spotify```
+
+**Which command is used for removing software. Provide an example**
+```sudo apt remove spotify```
 
 **Which command is used for searching for software. Provide an example.**
-apt search "google chrome"
+```apt search "google chrome"```
 
 **Definition of the following terms:**
 
-    Package: It archives that contain binaries of software, configuration files and information about dependencies. A box containing all the necessary stuff to install the program you want. 
-    Library: Reusable code that can be used by more than one functions oor program. 
-    Repository: A large collection of software available for download. 
+    * Package: It archives that contain binaries of software, configuration files and information about dependencies. A box containing all the necessary stuff to install the program you want. 
+    * Library: Reusable code that can be used by more than one functions oor program. 
+    * Repository: A large collection of software available for download. 
 
