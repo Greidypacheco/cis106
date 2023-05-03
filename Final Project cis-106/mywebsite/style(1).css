@@ -1,0 +1,103 @@
+html {
+     background: #D1CB29;
+     background-image: linear-gradient(270deg, rgb(230, 233, 233). rgb(216, 221, 221) 100%)
+    
+}
+body
+{
+    
+    background: #fff;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.60);
+    color: #545454;
+    font-family: "Helvetica neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;    
+}
+header 
+{
+    background-color:lightcyan;
+    text-align: center;
+    font-style:oblique;
+    
+}
+
+
+nav
+{
+    background-color: #D1CB29;
+    color: black;
+}
+
+.navTabs li 
+{
+    display: inline;
+    background-color: #D1CB29;
+    margin: auto;
+    color: black;
+    font-size: 14;
+    font-variant: small-caps;
+    padding-right: 30px;
+    margin-bottom: 5px; 
+}
+
+.navTabs li a:hover
+{
+    background-color: lightcyan;
+    color: blue;
+}
+
+a:link
+{
+    text-decoration: none;
+}
+
+main
+{
+    font-style: oblique;
+    font-variant: small-caps;
+    
+    
+}
+
+footer
+{
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: 800;
+}
+
+
+h1 
+{
+    color: #0B1856;
+    text-align: center;
+}
+
+h2, h3 
+{
+    color: #0B1856;   
+    text-align: center;
+}
+
+
+img 
+{
+    animation: colorize 2s cubid-bezier (0, 0, .78, .36) 1;
+    background: transparent;
+    border: 10 px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    margin: 1.3em auto;
+    max-width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+p 
+{
+    color: #341B6F;
+    
+}

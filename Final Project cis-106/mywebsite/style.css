@@ -1,0 +1,39 @@
+html {
+     background: #D1CB29;
+     background-image: linear-gradient(270deg, rgb(230, 233, 233). rgb(216, 221, 221) 100%)
+    
+}
+body {
+    
+    background: #fff;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.60);
+    color: #545454;
+    font-family: "Helvetica neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+}
+h1 {
+    color: #0B1856;
+}
+
+h2, h3 {
+    color: #0B1856;
+    
+}
+
+img {
+    animation: colorize 2s cubid-bezier (0, 0, .78, .36) 1;
+    background: transparent;
+    border: 10 px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
+
+p {
+    color: #341B6F;
+    
+}
